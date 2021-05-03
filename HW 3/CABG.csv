@@ -1,0 +1,4 @@
+﻿,Coeff.,Standard Error,p Value,Odds Ratio,CI Lower Limit,CI Upper Limit
+AGE,0.073,0.006, < 0.001,1.076,1.062,1.09
+RENAL,1.162,0.177,< 0.001,3.198,2.259,4.526
+Constant,-8.868,0.471,< 0.001,,,
